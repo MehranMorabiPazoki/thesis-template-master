@@ -1,0 +1,80 @@
+
+%--------------------------------------------------------------------------
+%
+%  M.Sc. Thesis
+%  [Put Your Thesis Title Here]
+%  By: [Put Your Name Here]
+%
+%--------------------------------------------------------------------------
+
+
+
+
+\documentclass[oneside,a4paper,12pt]{book}
+
+\input{styles/common.tex}
+\input{styles/custom.tex}
+
+\begin{document}
+
+
+% -------------------- Front Pages --------------------
+
+\include{front/info}
+\pagestyle{empty}
+
+\include{front/template/title}
+%\input{front/template/besmellah.tex}‌  % بسم‌الله
+
+\include{front/template/signatures}  % تصویب‌نامه
+%\include{front/template/declaration}  % اظهارنامه
+
+\pagestyle{plain}
+\pagenumbering{tartibi}
+
+\include{front/acknowledge}  % تقدیر و تشکر
+\include{front/abstract}
+
+
+% -------------------- Table of Contents --------------------
+
+\tableofcontents \newpage
+\listoftables \newpage
+\listoffigures \newpage
+
+
+% -------------------- Chapters --------------------
+
+\pagenumbering{arabic}
+
+\include{chapters/introduction}
+\include{chapters/preliminaries}
+\include{chapters/literature}
+\include{chapters/results}
+\include{chapters/conclusions}
+
+
+% -------------------- Bibliography & Dictionary --------------------
+
+\include{bibs/bibs}
+\include{front/dictionary}
+
+
+% -------------------- Appendices --------------------
+
+\begin{appendix}
+\include{chapters/appendix}
+\end{appendix}
+
+
+% -------------------- English Pages --------------------
+
+%\newgeometry{left=3cm,right=2.5cm}
+
+\include{front/abstract-eng}
+\include{front/template/title-eng}
+
+
+% -------------------- The End! --------------------
+
+\end{document}

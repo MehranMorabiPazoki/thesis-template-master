@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {0-1}مقدمه}{1}{section.0.1}%
+\contentsline {subsection}{\numberline {0-1-1}تعریف مسئله}{1}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0-1-2}اهمیت موضوع}{1}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0-1-3}ادبیات موضوع}{1}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0-1-4}اهداف پژوهش}{1}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0-1-5}ساختار پایان‌نامه}{2}{subsection.0.1.5}%
+\contentsline {section}{\numberline {0-2}مفاهیم اولیه}{3}{section.0.2}%
+\contentsline {section}{\numberline {0-3}کارهای پیشین}{4}{section.0.3}%
+\contentsline {section}{\numberline {0-4}نتایج جدید}{5}{section.0.4}%
+\contentsline {section}{\numberline {0-5}نتیجه‌گیری}{6}{section.0.5}%
+\contentsline {chapter}{مراجع}{7}{section*.4}%
+\contentsline {chapter}{واژه‌نامه}{8}{section*.6}%
+\contentsline {section}{\numberline {-1}مطالب تکمیلی}{9}{section.Alph0.1}%

@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: front/info.aux
+A level-1 auxiliary file: front/template/title.aux
+A level-1 auxiliary file: front/template/signatures.aux
+A level-1 auxiliary file: front/acknowledge.aux
+A level-1 auxiliary file: front/abstract.aux
+A level-1 auxiliary file: chapters/introduction.aux
+A level-1 auxiliary file: chapters/preliminaries.aux
+A level-1 auxiliary file: chapters/literature.aux
+A level-1 auxiliary file: chapters/results.aux
+A level-1 auxiliary file: chapters/conclusions.aux
+A level-1 auxiliary file: bibs/bibs.aux
+The style file: ieeetr-fa.bst
+A level-1 auxiliary file: front/dictionary.aux
+A level-1 auxiliary file: chapters/appendix.aux
+A level-1 auxiliary file: front/abstract-eng.aux
+A level-1 auxiliary file: front/template/title-eng.aux
+I found no \citation commands---while reading file thesis.aux
+Database file #1: bibs/full.bib
+Database file #2: bibs/refs.bib
+-- ieeetr-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 0 entries,
+            2349 wiz_defined-function locations,
+            1029 strings with 12855 characters,
+and the built_in function-call counts, 43 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 13
+:= -- 9
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 3
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 6
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 5
+(There was 1 error message)
