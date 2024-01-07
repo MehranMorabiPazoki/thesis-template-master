@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  10 DEC 2023 09:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  7 JAN 2024 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1189,7 +1189,8 @@ Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 18.
  (./thesis.aux (./front/info.aux) (./front/template/title.aux) (./front/templat
 e/signatures.aux)
-(./front/acknowledge.aux) (./front/abstract.aux) (./chapters/introduction.aux)
+(./front/template/declaration.aux) (./front/acknowledge.aux)
+(./front/abstract.aux) (./chapters/introduction.aux)
 (./chapters/preliminaries.aux) (./chapters/literature.aux)
 (./chapters/results.aux) (./chapters/conclusions.aux) (./bibs/bibs.aux)
 (./front/dictionary.aux) (./chapters/appendix.aux) (./front/abstract-eng.aux)
@@ -1299,10 +1300,16 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
 
 
 ])
+(./front/template/besmellah.tex
+File: front/template/images/besmellah.jpg Graphic file (type bmp)
+<front/template/images/besmellah.jpg>
+) [2
+
+
+]
 \openout2 = `front/template/signatures.aux'.
 
-
-(./front/template/signatures.tex
+ (./front/template/signatures.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 14.00006pt on input line 11.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
@@ -1340,12 +1347,48 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
 (Font)              scaled to size 10.89996pt on input line 37.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
 (Font)              scaled to size 7.62997pt on input line 37.
+[3
 
-Underfull \hbox (badness 1946) in paragraph at lines 38--38
-[][]|\TU/XBNiloofar(0)/m/n/14.4 استاد راهنما: استاد دکتر مهدی[]
+])
+\openout2 = `front/template/declaration.aux'.
+
+ (./front/template/declaration.tex
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 12.77504pt on input line 7.
+File: front/template/images/logo.png Graphic file (type bmp)
+<front/template/images/logo.png>
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 11.93546pt on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+[][]
  []
 
-[2
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+[][]
+ []
+
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+[][]
+ []
+
+[4
 
 
 
@@ -1413,29 +1456,28 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 29.0268pt on input line 41.
  (./thesis.toc
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 8.71997pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 6.53998pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 13.07996pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 8.71997pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 6.53998pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 13.07996pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 8.71997pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 6.53998pt on input line 1.
-
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 11.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 1.
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
-(Font)              scaled to size 13.07996pt on input line 12.
+(Font)              scaled to size 13.07996pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 8.71997pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 6.53998pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
+(Font)              scaled to size 13.07996pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
+(Font)              scaled to size 8.71997pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
+(Font)              scaled to size 6.53998pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 13.07996pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 8.71997pt on input line 2.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 6.53998pt on input line 2.
 )
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
@@ -1462,91 +1504,30 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
  (./chapters/introduction.tex
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 20.16008pt on input line 2.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
-(Font)              scaled to size 20.16008pt on input line 2.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
-(Font)              scaled to size 18.83513pt on input line 2.
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
-(Font)              scaled to size 15.69594pt on input line 8.
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
 [1
 
 ]
+فصل 1.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 27.11911pt on input line 2.
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 20.16008pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 20.16008pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 18.83513pt on input line 8.
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
@@ -1561,22 +1542,76 @@ Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
-) [2]
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+[2
+
+]
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+) [3]
 \openout2 = `chapters/preliminaries.aux'.
 
  (./chapters/preliminaries.tex
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-) [3
-
-
-
-]
-\openout2 = `chapters/literature.aux'.
-
- (./chapters/literature.tex
+فصل 2.
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
@@ -1585,34 +1620,26 @@ atn;language=dflt;script=arab;mapping=persian-tex-text;!
 
 
 
-]
-\openout2 = `chapters/results.aux'.
 
- (./chapters/results.tex
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
+]
+\openout2 = `chapters/literature.aux'.
+
+ (./chapters/literature.tex
+فصل 3.
 ) [5
 
 
 
-]
-\openout2 = `chapters/conclusions.aux'.
 
- (./chapters/conclusions.tex
+]
+\openout2 = `chapters/results.aux'.
+
+ (./chapters/results.tex
+فصل 4.
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
@@ -1623,6 +1650,21 @@ atn;language=dflt;script=arab;mapping=persian-tex-text;!
 
 
 
+
+]
+\openout2 = `chapters/conclusions.aux'.
+
+ (./chapters/conclusions.tex
+فصل 5.
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
+atn;language=dflt;script=arab;mapping=persian-tex-text;!
+) [7
+
+
+
+
 ]
 \openout2 = `bibs/bibs.aux'.
 
@@ -1630,7 +1672,7 @@ atn;language=dflt;script=arab;mapping=persian-tex-text;!
 
 LaTeX Warning: Empty `thebibliography' environment on input line 6.
 
-)) [7
+)) [8
 
 
 
@@ -1640,12 +1682,8 @@ LaTeX Warning: Empty `thebibliography' environment on input line 6.
 \openout2 = `front/dictionary.aux'.
 
  (./front/dictionary.tex
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 12.77504pt on input line 8.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 12.77504pt on input line 10.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 11.93546pt on input line 10.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' will be
 (Font)              scaled to size 11.93546pt on input line 10.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
@@ -1720,7 +1758,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 [][]
  []
 
-) [8
+) [9
 
 
 
@@ -1730,18 +1768,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--51
 \openout2 = `chapters/appendix.aux'.
 
  (./chapters/appendix.tex
+پیوست آ.
 Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
 atn;language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font [XB Niloofar.ttf]/OT:script=l
-atn;language=dflt;script=arab;mapping=persian-tex-text;!
-) [9
+) [10
+
 
 
 
 ]
 \openout2 = `front/abstract-eng.aux'.
 
- (./front/abstract-eng.tex) [10
+ (./front/abstract-eng.tex) [11
 
 
 
@@ -1751,14 +1789,14 @@ atn;language=dflt;script=arab;mapping=persian-tex-text;!
  (./front/template/title-eng.tex
 File: front/template/images/logo.png Graphic file (type bmp)
 <front/template/images/logo.png>
-) [11
+)
+[12
 
 
 
-]
-(./thesis.aux (./front/info.aux) (./front/template/title.aux)
-(./front/template/signatures.aux) (./front/acknowledge.aux)
-(./front/abstract.aux) (./chapters/introduction.aux)
+] (./thesis.aux (./front/info.aux) (./front/template/title.aux)
+(./front/template/signatures.aux) (./front/template/declaration.aux)
+(./front/acknowledge.aux) (./front/abstract.aux) (./chapters/introduction.aux)
 (./chapters/preliminaries.aux) (./chapters/literature.aux)
 (./chapters/results.aux) (./chapters/conclusions.aux) (./bibs/bibs.aux)
 (./front/dictionary.aux) (./chapters/appendix.aux) (./front/abstract-eng.aux)
@@ -1772,15 +1810,15 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 334A9B7828C6CCF677F7E49D0D75A3D0;1777.
+(rerunfilecheck)             Checksum: 3B6690B5DAD5619C4FCD4839A3637E19;1681.
  ) 
 Here is how much of TeX's memory you used:
- 29508 strings out of 476376
- 614643 string characters out of 5799322
+ 29562 strings out of 476376
+ 616536 string characters out of 5799322
  1856394 words of memory out of 5000000
- 49416 multiletter control sequences out of 15000+600000
- 522947 words of font info for 121 fonts, out of 8000000 for 9000
+ 49458 multiletter control sequences out of 15000+600000
+ 522955 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,10n,136p,2403b,882s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,10n,136p,2403b,900s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (18 pages).
+Output written on thesis.pdf (21 pages).
