@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  7 JAN 2024 21:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  18 APR 2024 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -531,11 +531,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks41
 \@floatcapt=\box71
 )
+\@float@every@table=\toks42
+
 (c:/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip58
 \enit@outerparindent=\dimen262
-\enit@toks=\toks42
+\enit@toks=\toks43
 \enit@inbox=\box72
 \enit@count@id=\count327
 \enitdp@description=\count328
@@ -599,7 +601,7 @@ Package caption Info: hyperref package is loaded.
 \WF@size=\dimen275
 \c@WF@wrappedlines=\count338
 \WF@box=\box73
-\WF@everypar=\toks43
+\WF@everypar=\toks44
 Package: wrapfig 2003/01/31  v 3.6
 )
 (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
@@ -629,7 +631,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen281
 \Gm@layouthoffset=\dimen282
 \Gm@layoutvoffset=\dimen283
-\Gm@dimlist=\toks44
+\Gm@dimlist=\toks45
 )
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/euscript.sty
 Package: euscript 2009/06/22 v3.00 Euler Script fonts
@@ -725,7 +727,64 @@ Package: perpage 2014/10/25 2.0 Reset/sort counters per page
 \CommentStream=\write3
 
 Excluding comment 'comment')
-\c@pp@a@footnote=\count353
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(c:/texlive/2023/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box120
+)
+\tc@llx=\dimen294
+\tc@lly=\dimen295
+\tc@urx=\dimen296
+\tc@ury=\dimen297
+
+
+! LaTeX Error: Command \clipbox already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 }
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package trimclip Info: Using driver 'tc-xetex.def'.
+(c:/texlive/2023/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen298
+\adjbox@Height=\dimen299
+\adjbox@Depth=\dimen300
+\adjbox@Totalheight=\dimen301
+\adjbox@pwidth=\dimen302
+\adjbox@pheight=\dimen303
+\adjbox@pdepth=\dimen304
+\adjbox@ptotalheight=\dimen305
+
+(c:/texlive/2023/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count353
+)
+(c:/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box121
+\sift@deathcycles=\count354
+\@vwid@loff=\dimen306
+\@vwid@roff=\dimen307
+))
+\c@pp@a@footnote=\count355
 
 (c:/texlive/2023/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
@@ -734,22 +793,22 @@ Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count354
-\c@ALG@rem=\count355
-\c@ALG@nested=\count356
+\c@ALG@line=\count356
+\c@ALG@rem=\count357
+\c@ALG@nested=\count358
 \ALG@tlm=\skip68
 \ALG@thistlm=\skip69
-\c@ALG@Lnr=\count357
-\c@ALG@blocknr=\count358
-\c@ALG@storecount=\count359
-\c@ALG@tmpcounter=\count360
+\c@ALG@Lnr=\count359
+\c@ALG@blocknr=\count360
+\c@ALG@storecount=\count361
+\c@ALG@tmpcounter=\count362
 \ALG@tmplength=\skip70
 ) (c:/texlive/2023/texmf-dist/tex/latex/algorithms/algorithm.sty
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
-\@float@every@algorithm=\toks45
-\c@algorithm=\count361
+\@float@every@algorithm=\toks46
+\c@algorithm=\count363
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
@@ -762,11 +821,11 @@ Package: expl3 2023-06-16 L3 programming layer (loader)
 
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
-\g__graphics_track_int=\count362
-\l__pdf_internal_box=\box120
-\g__pdf_backend_object_int=\count363
-\g__pdf_backend_annotation_int=\count364
-\g__pdf_backend_link_int=\count365
+\g__graphics_track_int=\count364
+\l__pdf_internal_box=\box122
+\g__pdf_backend_object_int=\count365
+\g__pdf_backend_annotation_int=\count366
+\g__pdf_backend_link_int=\count367
 ))
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
@@ -775,20 +834,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count366
-\l__fontspec_language_int=\count367
-\l__fontspec_strnum_int=\count368
-\l__fontspec_tmp_int=\count369
-\l__fontspec_tmpa_int=\count370
-\l__fontspec_tmpb_int=\count371
-\l__fontspec_tmpc_int=\count372
-\l__fontspec_em_int=\count373
-\l__fontspec_emdef_int=\count374
-\l__fontspec_strong_int=\count375
-\l__fontspec_strongdef_int=\count376
-\l__fontspec_tmpa_dim=\dimen294
-\l__fontspec_tmpb_dim=\dimen295
-\l__fontspec_tmpc_dim=\dimen296
+\l__fontspec_script_int=\count368
+\l__fontspec_language_int=\count369
+\l__fontspec_strnum_int=\count370
+\l__fontspec_tmp_int=\count371
+\l__fontspec_tmpa_int=\count372
+\l__fontspec_tmpb_int=\count373
+\l__fontspec_tmpc_int=\count374
+\l__fontspec_em_int=\count375
+\l__fontspec_emdef_int=\count376
+\l__fontspec_strong_int=\count377
+\l__fontspec_strongdef_int=\count378
+\l__fontspec_tmpa_dim=\dimen308
+\l__fontspec_tmpb_dim=\dimen309
+\l__fontspec_tmpc_dim=\dimen310
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -796,43 +855,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count377
-\XePersian@y=\count378
-\XePersian@m=\count379
-\XePersian@d=\count380
-\XePersian@latini=\count381
-\XePersian@persiani=\count382
-\XePersian@latinii=\count383
-\XePersian@persianii=\count384
-\XePersian@latiniii=\count385
-\XePersian@persianiii=\count386
-\XePersian@latiniv=\count387
-\XePersian@persianiv=\count388
-\XePersian@latinv=\count389
-\XePersian@persianv=\count390
-\XePersian@latinvi=\count391
-\XePersian@persianvi=\count392
-\XePersian@latinvii=\count393
-\XePersian@persianvii=\count394
-\XePersian@latinviii=\count395
-\XePersian@persianviii=\count396
-\XePersian@latinix=\count397
-\XePersian@persianix=\count398
-\XePersian@latinx=\count399
-\XePersian@persianx=\count400
-\XePersian@latinxi=\count401
-\XePersian@persianxi=\count402
-\XePersian@latinxii=\count403
-\XePersian@persianxii=\count404
-\XePersian@persianxiii=\count405
-\XePersian@temp=\count406
-\XePersian@temptwo=\count407
-\XePersian@tempthree=\count408
-\XePersian@yModHundred=\count409
-\XePersian@thirtytwo=\count410
-\XePersian@dn=\count411
-\XePersian@sn=\count412
-\XePersian@mminusone=\count413
+\XePersian@i=\count379
+\XePersian@y=\count380
+\XePersian@m=\count381
+\XePersian@d=\count382
+\XePersian@latini=\count383
+\XePersian@persiani=\count384
+\XePersian@latinii=\count385
+\XePersian@persianii=\count386
+\XePersian@latiniii=\count387
+\XePersian@persianiii=\count388
+\XePersian@latiniv=\count389
+\XePersian@persianiv=\count390
+\XePersian@latinv=\count391
+\XePersian@persianv=\count392
+\XePersian@latinvi=\count393
+\XePersian@persianvi=\count394
+\XePersian@latinvii=\count395
+\XePersian@persianvii=\count396
+\XePersian@latinviii=\count397
+\XePersian@persianviii=\count398
+\XePersian@latinix=\count399
+\XePersian@persianix=\count400
+\XePersian@latinx=\count401
+\XePersian@persianx=\count402
+\XePersian@latinxi=\count403
+\XePersian@persianxi=\count404
+\XePersian@latinxii=\count405
+\XePersian@persianxii=\count406
+\XePersian@persianxiii=\count407
+\XePersian@temp=\count408
+\XePersian@temptwo=\count409
+\XePersian@tempthree=\count410
+\XePersian@yModHundred=\count411
+\XePersian@thirtytwo=\count412
+\XePersian@dn=\count413
+\XePersian@sn=\count414
+\XePersian@mminusone=\count415
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -871,33 +930,33 @@ n plain TeX and LaTeX
 ****************************************************
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks46
-\@bidi@emptytoks=\toks47
-\bidi@poscount=\count414
-\bidi@tempcountb=\count415
-\bidi@temptoksa=\toks48
-\bidi@temptoksb=\toks49
-\bidi@dummies=\count416
-\bidi@are@these@correct=\toks50
-\bidi@toks@lista=\toks51
-\bidi@toks@listb=\toks52
-\bidi@stack@length=\count417
-\bidi@empty@stack=\toks53
-\bidi@looprepeat@depth=\count418
+\@bidi@envbody=\toks47
+\@bidi@emptytoks=\toks48
+\bidi@poscount=\count416
+\bidi@tempcountb=\count417
+\bidi@temptoksa=\toks49
+\bidi@temptoksb=\toks50
+\bidi@dummies=\count418
+\bidi@are@these@correct=\toks51
+\bidi@toks@lista=\toks52
+\bidi@toks@listb=\toks53
+\bidi@stack@length=\count419
+\bidi@empty@stack=\toks54
+\bidi@looprepeat@depth=\count420
 )
 \@bidi@copyins@=\insert252
 
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks54
-\bidi@column@check@number=\count419
+\bidi@n@everypar=\toks55
+\bidi@column@check@number=\count421
 
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count420
-\footdir@toks=\toks55
+\c@footdir@label=\count422
+\footdir@toks=\toks56
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -965,12 +1024,16 @@ or XeTeX engine
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
 File: multicol-xetex-bidi.def 2022/07/10 v1.4 bidi adaptations for multicol pac
 kage for XeTeX engine
+)
+(c:/texlive/2023/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def
+File: tc-xetex-bidi.def 2014/07/08 v0.1 bidi adaptations for Clipping driver fo
+r XeTeX engine
 ))
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count421
+\bidi@digits=\count423
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -999,9 +1062,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count422
-\xepersian@ilg=\dimen297
-\xepersian@strutilg=\dimen298
+\xepersian@tcl=\count424
+\xepersian@ilg=\dimen311
+\xepersian@strutilg=\dimen312
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -1080,7 +1143,7 @@ apping=tex-text;"
 Package: algpseudocode 
 
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (./styles/alg-fa.tex)
+)
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: 
 * paper: a4paper
@@ -1146,7 +1209,7 @@ ab;mapping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 14.00006pt on input line 65.
+(Font)              scaled to size 14.00006pt on input line 71.
 
 Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
 (fontspec)             Niloofar' with options
@@ -1161,7 +1224,7 @@ an-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 72.
+'XB Niloofar' on input line 78.
 \symOPERATORS=\mathgroup6
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
@@ -1180,15 +1243,15 @@ xtension=.ttf].
 ng=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-\c@قضیه=\count423
-\c@مسئله=\count424
-\c@تعریف=\count425
-\c@مثال=\count426
+\c@قضیه=\count425
+\c@مسئله=\count426
+\c@تعریف=\count427
+\c@مثال=\count428
 ) (./styles/custom.tex)
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 18.
- (./thesis.aux (./front/info.aux) (./front/template/title.aux) (./front/templat
-e/signatures.aux)
+ (./thesis.aux (./front/info.aux)
+(./front/template/title.aux) (./front/template/signatures.aux)
 (./front/template/declaration.aux) (./front/acknowledge.aux)
 (./front/abstract.aux) (./chapters/introduction.aux)
 (./chapters/preliminaries.aux) (./chapters/literature.aux)
@@ -1813,10 +1876,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 3B6690B5DAD5619C4FCD4839A3637E19;1681.
  ) 
 Here is how much of TeX's memory you used:
- 29562 strings out of 476376
- 616536 string characters out of 5799322
+ 30441 strings out of 476376
+ 632887 string characters out of 5799322
  1856394 words of memory out of 5000000
- 49458 multiletter control sequences out of 15000+600000
+ 50313 multiletter control sequences out of 15000+600000
  522955 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,10n,136p,2403b,900s stack positions out of 10000i,1000n,20000p,200000b,200000s

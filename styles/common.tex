@@ -12,17 +12,22 @@
 \usepackage{xcolor}
 \usepackage{siunitx}
 \usepackage{float}
+\floatstyle{plaintop}
+\restylefloat{table}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{graphicx,subfig,wrapfig}
 \usepackage{subcaption}
-\usepackage{geometry}
+\usepackage[left=25mm,right=30mm,top=30mm,bottom=25mm]{geometry}
 \usepackage[mathscr]{euscript}
 \usepackage{multicol}
 \usepackage{multirow}
 \usepackage{cite}
 \usepackage{perpage}
 \usepackage{comment}
+
+\usepackage{adjustbox}
+
 \MakePerPage[1]{footnote}
 
 \usepackage[figureposition=bottom,tableposition=top,font={small,bf},labelfont=bf]{caption}
@@ -32,8 +37,9 @@
 
 %\usepackage[localise=on,extrafootnotefeatures]{xepersian}
 \usepackage{xepersian}
-\usepackage[noend]{algpseudocode}
-\input{styles/alg-fa}
+\usepackage{algpseudocode}
+
+%\input{styles/alg-fa}
 
 %\titleclass{\subsubsection}{straight}[\subsection]
 %\newcounter{subsubsection}[subsection]
