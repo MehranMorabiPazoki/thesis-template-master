@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  18 APR 2024 10:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.25)  6 MAY 2024 08:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,16 +280,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-(c:/texlive/2023/texmf-dist/tex/latex/pstricks/pstricks.sty
-Package: pstricks 2022/19/23 v0.72 LaTeX wrapper for `PSTricks' (RN,HV)
-
 (c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 218.
 Package xcolor Info: Driver file: xetex.def on input line 227.
 
 (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
@@ -304,243 +300,69 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
-File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-
-(c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
 )
-\XKV@depth=\count283
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex
-`pst-fp' v0.06, 2020/11/20 (hv)
-\pstFP@xs=\count284
-\pstFP@xia=\count285
-\pstFP@xib=\count286
-\pstFP@xfa=\count287
-\pstFP@xfb=\count288
-\pstFP@rega=\count289
-\pstFP@regb=\count290
-\pstFP@regs=\count291
-\pstFP@times=\count292
-)
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen159
-\pgfutil@tempdimb=\dimen160
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box55
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
-
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
-de.tex
-\pgfkeys@tmptoks=\toks30
-))) (c:/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen161
-\pgf@xa=\dimen162
-\pgf@xb=\dimen163
-\pgf@xc=\dimen164
-\pgf@y=\dimen165
-\pgf@ya=\dimen166
-\pgf@yb=\dimen167
-\pgf@yc=\dimen168
-\c@pgf@counta=\count293
-\c@pgf@countb=\count294
-\c@pgf@countc=\count295
-\c@pgf@countd=\count296
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen169
-\pgfmath@count=\count297
-\pgfmath@box=\box56
-\pgfmath@toks=\toks31
-\pgfmath@stack@operand=\toks32
-\pgfmath@stack@operation=\toks33
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
-x)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
-.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
-ex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
-de.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
-x)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
-etics.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count298
-)))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen170
-\pgffor@skip=\dimen171
-\pgffor@stack=\toks34
-\pgffor@toks=\toks35
-))
-\psLoopIndex=\count299
-
-`PSTricks' v3.19  <2023/04/30> (tvz,hv)
-\pst@dima=\dimen172
-\pst@dimb=\dimen173
-\pst@dimc=\dimen174
-\pst@dimd=\dimen175
-\pst@dimg=\dimen176
-\pst@dimh=\dimen177
-\pst@dimm=\dimen178
-\pst@dimn=\dimen179
-\pst@dimo=\dimen180
-\pst@dimp=\dimen181
-\pst@hbox=\box57
-\pst@ibox=\box58
-\pst@boxg=\box59
-\pst@cnta=\count300
-\pst@cntb=\count301
-\pst@cntc=\count302
-\pst@cntd=\count303
-\pst@cntg=\count304
-\pst@cnth=\count305
-\pst@cntm=\count306
-\pst@cntn=\count307
-\pst@cnto=\count308
-\pst@cntp=\count309
-\@zero=\count310
-\pst@toks=\toks36
---- We are running latex or xelatex ---
-(c:/texlive/2023/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
-\psunit=\dimen182
-\psxunit=\dimen183
-\psyunit=\dimen184
-\pst@C@@rType=\count311
-\pslinewidth=\dimen185
-\psk@startLW=\dimen186
-\psk@endLW=\dimen187
-
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
-\pshooklength=\dimen188
-\pshookwidth=\dimen189
-)
-\pst@customdefs=\toks37
-
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
-\pslinearc=\dimen190
-\pst@symbolStep=\dimen191
-\pst@symbolWidth=\dimen192
-\pst@symbolLinewidth=\dimen193
-\everypsbox=\toks38
-\psframesep=\dimen194
-\pslabelsep=\dimen195
-\sh@wgridXunit=\dimen196
-\sh@wgridYunit=\dimen197
-\pst@shift=\dimen198
-\ps@imagectr=\count312
-
-(c:/texlive/2023/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
-Using PSTricks configuration for LaTeX+dvipdfmx
-)))
-File: pstricks.tex 2023/04/30 v3.19 `PSTricks' (tvz,hv)
- (c:/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex
-`pst-fp' v0.06, 2020/11/20 (hv))
-File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
-
->>> Loading XeTeX special macros
-(c:/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
 (c:/texlive/2023/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2023-06-12 v3.2.6 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen199
-\l__siunitx_angle_marker_box=\box60
-\l__siunitx_angle_unit_box=\box61
-\l__siunitx_compound_count_int=\count313
+\l__siunitx_angle_tmp_dim=\dimen159
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_compound_count_int=\count283
 
 (c:/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
-\l__siunitx_number_exponent_fixed_int=\count314
-\l__siunitx_number_min_decimal_int=\count315
-\l__siunitx_number_min_integer_int=\count316
-\l__siunitx_number_round_precision_int=\count317
-\l__siunitx_number_lower_threshold_int=\count318
-\l__siunitx_number_upper_threshold_int=\count319
-\l__siunitx_number_group_first_int=\count320
-\l__siunitx_number_group_size_int=\count321
-\l__siunitx_number_group_minimum_int=\count322
-\l__siunitx_table_tmp_box=\box62
-\l__siunitx_table_tmp_dim=\dimen256
-\l__siunitx_table_column_width_dim=\dimen257
-\l__siunitx_table_integer_box=\box63
-\l__siunitx_table_decimal_box=\box64
-\l__siunitx_table_uncert_box=\box65
-\l__siunitx_table_before_box=\box66
-\l__siunitx_table_after_box=\box67
-\l__siunitx_table_before_dim=\dimen258
-\l__siunitx_table_carry_dim=\dimen259
-\l__siunitx_unit_tmp_int=\count323
-\l__siunitx_unit_position_int=\count324
-\l__siunitx_unit_total_int=\count325
+\l__siunitx_number_exponent_fixed_int=\count284
+\l__siunitx_number_min_decimal_int=\count285
+\l__siunitx_number_min_integer_int=\count286
+\l__siunitx_number_round_precision_int=\count287
+\l__siunitx_number_lower_threshold_int=\count288
+\l__siunitx_number_upper_threshold_int=\count289
+\l__siunitx_number_group_first_int=\count290
+\l__siunitx_number_group_size_int=\count291
+\l__siunitx_number_group_minimum_int=\count292
+\l__siunitx_table_tmp_box=\box57
+\l__siunitx_table_tmp_dim=\dimen160
+\l__siunitx_table_column_width_dim=\dimen161
+\l__siunitx_table_integer_box=\box58
+\l__siunitx_table_decimal_box=\box59
+\l__siunitx_table_uncert_box=\box60
+\l__siunitx_table_before_box=\box61
+\l__siunitx_table_after_box=\box62
+\l__siunitx_table_before_dim=\dimen162
+\l__siunitx_table_carry_dim=\dimen163
+\l__siunitx_unit_tmp_int=\count293
+\l__siunitx_unit_position_int=\count294
+\l__siunitx_unit_total_int=\count295
 
 (c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen260
-\ar@mcellbox=\box68
-\extrarowheight=\dimen261
-\NC@list=\toks39
+\col@sep=\dimen164
+\ar@mcellbox=\box63
+\extrarowheight=\dimen165
+\NC@list=\toks25
 \extratabsurround=\skip56
 \backup@length=\skip57
-\ar@cellbox=\box69
+\ar@cellbox=\box64
 ))
 (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count326
-\float@exts=\toks40
-\float@box=\box70
-\@float@everytoks=\toks41
-\@floatcapt=\box71
+\c@float@type=\count296
+\float@exts=\toks26
+\float@box=\box65
+\@float@everytoks=\toks27
+\@floatcapt=\box66
 )
-\@float@every@table=\toks42
+\@float@every@table=\toks28
 
 (c:/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip58
-\enit@outerparindent=\dimen262
-\enit@toks=\toks43
-\enit@inbox=\box72
-\enit@count@id=\count327
-\enitdp@description=\count328
+\enit@outerparindent=\dimen166
+\enit@toks=\toks29
+\enit@inbox=\box67
+\enit@count@id=\count297
+\enitdp@description=\count298
 )
 (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -556,8 +378,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 )
-\Gin@req@height=\dimen263
-\Gin@req@width=\dimen264
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
 )
 (c:/texlive/2023/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
@@ -567,41 +389,41 @@ Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
 (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen265
-\captionmargin=\dimen266
-\caption@leftmargin=\dimen267
-\caption@rightmargin=\dimen268
-\caption@width=\dimen269
-\caption@indent=\dimen270
-\caption@parindent=\dimen271
-\caption@hangindent=\dimen272
+\caption@tempdima=\dimen169
+\captionmargin=\dimen170
+\caption@leftmargin=\dimen171
+\caption@rightmargin=\dimen172
+\caption@width=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count329
-\c@continuedfloat=\count330
+\c@caption@flags=\count299
+\c@continuedfloat=\count300
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
-\c@KVtest=\count331
+\c@KVtest=\count301
 \sf@farskip=\skip59
-\sf@captopadj=\dimen273
+\sf@captopadj=\dimen177
 \sf@capskip=\skip60
 \sf@nearskip=\skip61
-\c@subfigure=\count332
-\c@subfigure@save=\count333
-\c@lofdepth=\count334
-\c@subtable=\count335
-\c@subtable@save=\count336
-\c@lotdepth=\count337
+\c@subfigure=\count302
+\c@subfigure@save=\count303
+\c@lofdepth=\count304
+\c@subtable=\count305
+\c@subtable@save=\count306
+\c@lotdepth=\count307
 \sf@top=\skip62
 \sf@bottom=\skip63
 )
 (c:/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen274
-\WF@size=\dimen275
-\c@WF@wrappedlines=\count338
-\WF@box=\box73
-\WF@everypar=\toks44
+\wrapoverhang=\dimen178
+\WF@size=\dimen179
+\c@WF@wrappedlines=\count308
+\WF@box=\box68
+\WF@everypar=\toks30
 Package: wrapfig 2003/01/31  v 3.6
 )
 (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
@@ -620,18 +442,18 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count339
-\Gm@cntv=\count340
-\c@Gm@tempcnt=\count341
-\Gm@bindingoffset=\dimen276
-\Gm@wd@mp=\dimen277
-\Gm@odd@mp=\dimen278
-\Gm@even@mp=\dimen279
-\Gm@layoutwidth=\dimen280
-\Gm@layoutheight=\dimen281
-\Gm@layouthoffset=\dimen282
-\Gm@layoutvoffset=\dimen283
-\Gm@dimlist=\toks45
+\Gm@cnth=\count309
+\Gm@cntv=\count310
+\c@Gm@tempcnt=\count311
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks31
 )
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/euscript.sty
 Package: euscript 2009/06/22 v3.00 Euler Script fonts
@@ -640,28 +462,33 @@ LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 )
 (c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count342
-\mult@box=\box74
-\multicol@leftmargin=\dimen284
-\c@unbalance=\count343
-\c@collectmore=\count344
-\doublecol@number=\count345
-\multicoltolerance=\count346
-\multicolpretolerance=\count347
-\full@width=\dimen285
-\page@free=\dimen286
-\premulticols=\dimen287
-\postmulticols=\dimen288
+\c@tracingmulticols=\count312
+\mult@box=\box69
+\multicol@leftmargin=\dimen188
+\c@unbalance=\count313
+\c@collectmore=\count314
+\doublecol@number=\count315
+\multicoltolerance=\count316
+\multicolpretolerance=\count317
+\full@width=\dimen189
+\page@free=\dimen190
+\premulticols=\dimen191
+\postmulticols=\dimen192
 \multicolsep=\skip64
 \multicolbaselineskip=\skip65
-\partial@page=\box75
-\last@line=\box76
-\mc@boxedresult=\box77
-\maxbalancingoverflow=\dimen289
-\mult@rightbox=\box78
-\mult@grightbox=\box79
-\mult@firstbox=\box80
-\mult@gfirstbox=\box81
+\partial@page=\box70
+\last@line=\box71
+\mc@boxedresult=\box72
+\maxbalancingoverflow=\dimen193
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
 \@tempa=\box82
 \@tempa=\box83
 \@tempa=\box84
@@ -693,27 +520,22 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box110
 \@tempa=\box111
 \@tempa=\box112
-\@tempa=\box113
-\@tempa=\box114
-\@tempa=\box115
-\@tempa=\box116
-\@tempa=\box117
-\c@minrows=\count348
-\c@columnbadness=\count349
-\c@finalcolumnbadness=\count350
-\last@try=\dimen290
-\multicolovershoot=\dimen291
-\multicolundershoot=\dimen292
-\mult@nat@firstbox=\box118
-\colbreak@box=\box119
-\mc@col@check@num=\count351
+\c@minrows=\count318
+\c@columnbadness=\count319
+\c@finalcolumnbadness=\count320
+\last@try=\dimen194
+\multicolovershoot=\dimen195
+\multicolundershoot=\dimen196
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count321
 )
 (c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip66
-\multirow@cntb=\count352
+\multirow@cntb=\count322
 \multirow@dima=\skip67
-\bigstrutjot=\dimen293
+\bigstrutjot=\dimen197
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -730,6 +552,17 @@ Excluding comment 'comment')
 (c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
+(c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+)
+\XKV@depth=\count323
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
 (c:/texlive/2023/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
@@ -739,52 +572,38 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
 (c:/texlive/2023/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box120
+\collectedbox=\box115
 )
-\tc@llx=\dimen294
-\tc@lly=\dimen295
-\tc@urx=\dimen296
-\tc@ury=\dimen297
-
-
-! LaTeX Error: Command \clipbox already defined.
-               Or name \end... illegal, see p.192 of the manual.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 }
-       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+\tc@llx=\dimen198
+\tc@lly=\dimen199
+\tc@urx=\dimen256
+\tc@ury=\dimen257
 Package trimclip Info: Using driver 'tc-xetex.def'.
+
 (c:/texlive/2023/texmf-dist/tex/latex/adjustbox/tc-xetex.def
 File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
 ))
-\adjbox@Width=\dimen298
-\adjbox@Height=\dimen299
-\adjbox@Depth=\dimen300
-\adjbox@Totalheight=\dimen301
-\adjbox@pwidth=\dimen302
-\adjbox@pheight=\dimen303
-\adjbox@pdepth=\dimen304
-\adjbox@ptotalheight=\dimen305
+\adjbox@Width=\dimen258
+\adjbox@Height=\dimen259
+\adjbox@Depth=\dimen260
+\adjbox@Totalheight=\dimen261
+\adjbox@pwidth=\dimen262
+\adjbox@pheight=\dimen263
+\adjbox@pdepth=\dimen264
+\adjbox@ptotalheight=\dimen265
 
 (c:/texlive/2023/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count353
+\c@checkoddpage=\count324
 )
 (c:/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box121
-\sift@deathcycles=\count354
-\@vwid@loff=\dimen306
-\@vwid@roff=\dimen307
+\@vwid@box=\box116
+\sift@deathcycles=\count325
+\@vwid@loff=\dimen266
+\@vwid@roff=\dimen267
 ))
-\c@pp@a@footnote=\count355
+\c@pp@a@footnote=\count326
 
 (c:/texlive/2023/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
@@ -793,22 +612,22 @@ Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count356
-\c@ALG@rem=\count357
-\c@ALG@nested=\count358
+\c@ALG@line=\count327
+\c@ALG@rem=\count328
+\c@ALG@nested=\count329
 \ALG@tlm=\skip68
 \ALG@thistlm=\skip69
-\c@ALG@Lnr=\count359
-\c@ALG@blocknr=\count360
-\c@ALG@storecount=\count361
-\c@ALG@tmpcounter=\count362
+\c@ALG@Lnr=\count330
+\c@ALG@blocknr=\count331
+\c@ALG@storecount=\count332
+\c@ALG@tmpcounter=\count333
 \ALG@tmplength=\skip70
 ) (c:/texlive/2023/texmf-dist/tex/latex/algorithms/algorithm.sty
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
-\@float@every@algorithm=\toks46
-\c@algorithm=\count363
+\@float@every@algorithm=\toks34
+\c@algorithm=\count334
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
@@ -821,11 +640,11 @@ Package: expl3 2023-06-16 L3 programming layer (loader)
 
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
-\g__graphics_track_int=\count364
-\l__pdf_internal_box=\box122
-\g__pdf_backend_object_int=\count365
-\g__pdf_backend_annotation_int=\count366
-\g__pdf_backend_link_int=\count367
+\g__graphics_track_int=\count335
+\l__pdf_internal_box=\box117
+\g__pdf_backend_object_int=\count336
+\g__pdf_backend_annotation_int=\count337
+\g__pdf_backend_link_int=\count338
 ))
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
@@ -834,20 +653,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count368
-\l__fontspec_language_int=\count369
-\l__fontspec_strnum_int=\count370
-\l__fontspec_tmp_int=\count371
-\l__fontspec_tmpa_int=\count372
-\l__fontspec_tmpb_int=\count373
-\l__fontspec_tmpc_int=\count374
-\l__fontspec_em_int=\count375
-\l__fontspec_emdef_int=\count376
-\l__fontspec_strong_int=\count377
-\l__fontspec_strongdef_int=\count378
-\l__fontspec_tmpa_dim=\dimen308
-\l__fontspec_tmpb_dim=\dimen309
-\l__fontspec_tmpc_dim=\dimen310
+\l__fontspec_script_int=\count339
+\l__fontspec_language_int=\count340
+\l__fontspec_strnum_int=\count341
+\l__fontspec_tmp_int=\count342
+\l__fontspec_tmpa_int=\count343
+\l__fontspec_tmpb_int=\count344
+\l__fontspec_tmpc_int=\count345
+\l__fontspec_em_int=\count346
+\l__fontspec_emdef_int=\count347
+\l__fontspec_strong_int=\count348
+\l__fontspec_strongdef_int=\count349
+\l__fontspec_tmpa_dim=\dimen268
+\l__fontspec_tmpb_dim=\dimen269
+\l__fontspec_tmpc_dim=\dimen270
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -855,43 +674,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count379
-\XePersian@y=\count380
-\XePersian@m=\count381
-\XePersian@d=\count382
-\XePersian@latini=\count383
-\XePersian@persiani=\count384
-\XePersian@latinii=\count385
-\XePersian@persianii=\count386
-\XePersian@latiniii=\count387
-\XePersian@persianiii=\count388
-\XePersian@latiniv=\count389
-\XePersian@persianiv=\count390
-\XePersian@latinv=\count391
-\XePersian@persianv=\count392
-\XePersian@latinvi=\count393
-\XePersian@persianvi=\count394
-\XePersian@latinvii=\count395
-\XePersian@persianvii=\count396
-\XePersian@latinviii=\count397
-\XePersian@persianviii=\count398
-\XePersian@latinix=\count399
-\XePersian@persianix=\count400
-\XePersian@latinx=\count401
-\XePersian@persianx=\count402
-\XePersian@latinxi=\count403
-\XePersian@persianxi=\count404
-\XePersian@latinxii=\count405
-\XePersian@persianxii=\count406
-\XePersian@persianxiii=\count407
-\XePersian@temp=\count408
-\XePersian@temptwo=\count409
-\XePersian@tempthree=\count410
-\XePersian@yModHundred=\count411
-\XePersian@thirtytwo=\count412
-\XePersian@dn=\count413
-\XePersian@sn=\count414
-\XePersian@mminusone=\count415
+\XePersian@i=\count350
+\XePersian@y=\count351
+\XePersian@m=\count352
+\XePersian@d=\count353
+\XePersian@latini=\count354
+\XePersian@persiani=\count355
+\XePersian@latinii=\count356
+\XePersian@persianii=\count357
+\XePersian@latiniii=\count358
+\XePersian@persianiii=\count359
+\XePersian@latiniv=\count360
+\XePersian@persianiv=\count361
+\XePersian@latinv=\count362
+\XePersian@persianv=\count363
+\XePersian@latinvi=\count364
+\XePersian@persianvi=\count365
+\XePersian@latinvii=\count366
+\XePersian@persianvii=\count367
+\XePersian@latinviii=\count368
+\XePersian@persianviii=\count369
+\XePersian@latinix=\count370
+\XePersian@persianix=\count371
+\XePersian@latinx=\count372
+\XePersian@persianx=\count373
+\XePersian@latinxi=\count374
+\XePersian@persianxi=\count375
+\XePersian@latinxii=\count376
+\XePersian@persianxii=\count377
+\XePersian@persianxiii=\count378
+\XePersian@temp=\count379
+\XePersian@temptwo=\count380
+\XePersian@tempthree=\count381
+\XePersian@yModHundred=\count382
+\XePersian@thirtytwo=\count383
+\XePersian@dn=\count384
+\XePersian@sn=\count385
+\XePersian@mminusone=\count386
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -930,33 +749,33 @@ n plain TeX and LaTeX
 ****************************************************
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks47
-\@bidi@emptytoks=\toks48
-\bidi@poscount=\count416
-\bidi@tempcountb=\count417
-\bidi@temptoksa=\toks49
-\bidi@temptoksb=\toks50
-\bidi@dummies=\count418
-\bidi@are@these@correct=\toks51
-\bidi@toks@lista=\toks52
-\bidi@toks@listb=\toks53
-\bidi@stack@length=\count419
-\bidi@empty@stack=\toks54
-\bidi@looprepeat@depth=\count420
+\@bidi@envbody=\toks35
+\@bidi@emptytoks=\toks36
+\bidi@poscount=\count387
+\bidi@tempcountb=\count388
+\bidi@temptoksa=\toks37
+\bidi@temptoksb=\toks38
+\bidi@dummies=\count389
+\bidi@are@these@correct=\toks39
+\bidi@toks@lista=\toks40
+\bidi@toks@listb=\toks41
+\bidi@stack@length=\count390
+\bidi@empty@stack=\toks42
+\bidi@looprepeat@depth=\count391
 )
 \@bidi@copyins@=\insert252
 
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks55
-\bidi@column@check@number=\count421
+\bidi@n@everypar=\toks43
+\bidi@column@check@number=\count392
 
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count422
-\footdir@toks=\toks56
+\c@footdir@label=\count393
+\footdir@toks=\toks44
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -1009,10 +828,6 @@ kage for XeTeX engine
 File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref pac
 kage for XeTeX engine
 )
-(c:/texlive/2023/texmf-dist/tex/xelatex/bidi/pstricks-xetex-bidi.def
-File: pstricks-xetex-bidi.def 2022/09/22 v0.6 bidi adaptations for pstricks pac
-kage for XeTeX engine
-)
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
 File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
 kage for XeTeX engine
@@ -1033,7 +848,7 @@ r XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count423
+\bidi@digits=\count394
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1062,9 +877,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count424
-\xepersian@ilg=\dimen311
-\xepersian@strutilg=\dimen312
+\xepersian@tcl=\count395
+\xepersian@ilg=\dimen271
+\xepersian@strutilg=\dimen272
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -1243,10 +1058,6 @@ xtension=.ttf].
 ng=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-\c@قضیه=\count425
-\c@مسئله=\count426
-\c@تعریف=\count427
-\c@مثال=\count428
 ) (./styles/custom.tex)
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 18.
@@ -1876,12 +1687,12 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 3B6690B5DAD5619C4FCD4839A3637E19;1681.
  ) 
 Here is how much of TeX's memory you used:
- 30441 strings out of 476376
- 632887 string characters out of 5799322
+ 23479 strings out of 476376
+ 497794 string characters out of 5799322
  1856394 words of memory out of 5000000
- 50313 multiletter control sequences out of 15000+600000
+ 43476 multiletter control sequences out of 15000+600000
  522955 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,10n,136p,2403b,900s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,10n,110p,2403b,901s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on thesis.pdf (21 pages).
